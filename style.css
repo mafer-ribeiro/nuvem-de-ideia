@@ -1,0 +1,36 @@
+
+
+.p1{color: blue;
+    text-align: center;
+    border-color: blue;
+    border-style: double;
+    padding-left: 0%;
+    margin-left: 29%;
+}
+.p2{color: rgb(255, 0, 43);
+    text-align: left;
+    border-color: rgb(255, 0, 55);
+    border-style: double;
+    margin-right: 65%;
+   
+}
+.p3{color: rgb(0, 225, 255);
+    text-align: right;
+    border-color: rgb(0, 217, 255);
+    border-style: double;
+    margin-left: 65%;
+   
+}
+.p4{color: rgb(255, 0, 191);
+    text-align:left;
+    border-color: rgb(255, 0, 157);
+    border-style: double;
+    margin-right: 65%;
+  
+}
+.p5{color: rgb(255, 72, 0);
+    text-align: right;
+    border-color: rgb(255, 30, 0);
+    border-style: double;
+    margin-left: 65%;
+}
